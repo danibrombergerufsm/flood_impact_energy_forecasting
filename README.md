@@ -110,18 +110,12 @@ We conducted four analyses to evaluate the robustness and interpretability of th
 
 ## 📁 Data Availability
 
-
-
 The raw data supporting the findings of this research have been deposited in the Zenodo repository under restricted access to ensure data privacy and institutional compliance. Access is available upon request.
 > [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19022528.svg)](https://doi.org/10.5281/zenodo.19022528) 
 
 > **License**: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 Researchers interested in accessing the dataset for reproducibility or collaboration may contact the corresponding author at `dani.bromberger@ufsm.br`
-
-
-
-
 
 ---
 
@@ -135,8 +129,8 @@ Follow these steps to set up your local environment and reproduce the models.
 First, clone the repository to your local machine:
 
 ```bash
-git clone (https://github.com/danibrombergerufsm/flood-impact-energy-forecasting.git)
-cd flood-impact-energy-forecasting
+git clone (https://github.com/danibrombergerufsm/flood_impact_energy_forecasting.git)
+cd flood_impact_energy_forecasting
 ```
 
 It is highly recommended to use a **virtual environment** to avoid dependency conflicts:
